@@ -8,8 +8,8 @@
 - Has to be run as Administrator for it to copy the .xml file over.
 - Doesn't Come With Any Skins.
 - Doesn't Create The Folders For You.
-- Does Selects The Correct WM7_Skin.XML File So You Can You Different Skins On Your Emulator.
-- Does: rewrite the Microsoft XDE\1.0\WM7_Skin.xml file with the one the skin folder that is picked
+- Does Select The Correct WM7_Skin.XML File, So You Can Use Different Skins On Your Emulator.
+- Does: rewrite the Microsoft XDE\1.0\WM7_Skin.xml file with the one from the skin folder that is picked.
 
 **Version: ALPHA!**
 
