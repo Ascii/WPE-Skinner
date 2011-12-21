@@ -1,4 +1,4 @@
-# WPE Skinner
+# WPE Skinner 
 *Windows Phone Emulator Skin Picker*
 
 ----------
@@ -35,5 +35,13 @@ Microsoft XDE\1.0\skin\NukiaLumia800Cyan\WM7_Skin.xml
 > 		normalImage="skin\NokiaLumiaCyan\Nokia_Lumia_800_Cyan_Up.png"
 > 		downImage="skin\NokiaLumiaCyan\Nokia_Lumia_800_Cyan_Down.png">
 
+## **Alternatives** ##
+
+----------
+Added (12-21-2011)
+
+Geert Has Made A Skin Switcher Too & It's Beta And Looking Better Than What I Got Here So Far.
+
+[http://www.wpcentral.com/windows-phone-emulator-skin-switcher-developers](http://www.wpcentral.com/windows-phone-emulator-skin-switcher-developers "http://www.wpcentral.com/windows-phone-emulator-skin-switcher-developers")
 
 
